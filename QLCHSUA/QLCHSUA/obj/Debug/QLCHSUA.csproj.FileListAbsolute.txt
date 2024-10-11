@@ -1,0 +1,174 @@
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\QLCHSUA.exe.config
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\QLCHSUA.exe
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\QLCHSUA.pdb
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Azure.Core.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Azure.Identity.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.Identity.Client.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Buffers.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.ClientModel.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Memory.Data.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Memory.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Numerics.Vectors.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Security.AccessControl.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Security.Permissions.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Security.Principal.Windows.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Text.Encodings.Web.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Text.Json.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.ValueTuple.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Azure.Core.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Azure.Identity.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.Identity.Client.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Buffers.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.ClientModel.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Memory.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Memory.Data.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Numerics.Vectors.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Security.AccessControl.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Security.Permissions.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Security.Principal.Windows.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Text.Encodings.Web.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Text.Json.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\System.ValueTuple.xml
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Hoc C thang\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.csproj.AssemblyReference.cache
+E:\Hoc C thang\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.Properties.Resources.resources
+E:\Hoc C thang\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.csproj.GenerateResource.cache
+E:\Hoc C thang\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.csproj.CoreCompileInputs.cache
+E:\Hoc C thang\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.exe
+E:\Hoc C thang\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.pdb
+E:\Hoc C thang\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.qlkh.resources
+E:\Hoc C thang\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.csproj.Up2Date
+E:\Hoc C thang\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.QLNV.resources
+E:\Hoc C thang\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.SP.resources
+E:\Hoc C thang\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.PhieuNhap.resources
+E:\Hoc C thang\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.HoaDon.resources
+E:\Hoc C thang\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.DangNhap.resources
+E:\Hoc C thang\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.Menu.resources
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\QLCHSUA.exe.config
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\QLCHSUA.exe
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\QLCHSUA.pdb
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Azure.Core.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Azure.Identity.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Buffers.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.ClientModel.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Memory.Data.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Memory.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Security.Permissions.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Text.Json.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.ValueTuple.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Azure.Core.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Azure.Identity.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Buffers.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.ClientModel.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Memory.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Memory.Data.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Security.AccessControl.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Security.Permissions.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Text.Json.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\System.ValueTuple.xml
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.csproj.AssemblyReference.cache
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.DangNhap.resources
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.HoaDon.resources
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.Menu.resources
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.PhieuNhap.resources
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.Properties.Resources.resources
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.QLKH.resources
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.QLNV.resources
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.SP.resources
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.csproj.GenerateResource.cache
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.csproj.CoreCompileInputs.cache
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.csproj.Up2Date
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.exe
+C:\Users\lesin\OneDrive\Desktop\Nhóm 5 - Quản lý kinh doanh sữa\QLCHSUA\QLCHSUA\obj\Debug\QLCHSUA.pdb
