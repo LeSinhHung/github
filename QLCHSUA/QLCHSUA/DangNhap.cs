@@ -13,9 +13,10 @@ namespace QLCHSUA
 {
     public partial class DangNhap : Form
     {
-        string tentaikhoan = "lesinhhung";
-        string matkhau = "lehung2112003";
-        SqlConnection sqlcon = null; // đối tượng kết nối
+        SqlConnection sqlcon = null;
+        private string tentaikhoan;
+        private string matkhau;
+
         public DangNhap()
         {
             InitializeComponent();
@@ -23,51 +24,65 @@ namespace QLCHSUA
 
         private void DangNhap_Load(object sender, EventArgs e)
         {
-
+            if (sqlcon == null)
+            {
+                sqlcon = new SqlConnection(@"Data Source=DESKTOP-8DCO9H8;Initial Catalog=ChiNhanhSua;Integrated Security=True");
+            }
+            LayThongTinDangNhap();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void LayThongTinDangNhap()
         {
-            if(KiemTraDangNhap(tb_taikhoan.Text, tb_matkhau.Text))
+            try
             {
-                Menu menu = new Menu();
-                menu.Show();
-                this.Hide();
-                if (sqlcon == null)
-                {
-                    sqlcon = new SqlConnection("Data Source=LAPTOP-NNG5TEB9\\SQLEXPRESS;Initial Catalog=QLCHSua;Integrated Security=True");
-                }
                 if (sqlcon.State == ConnectionState.Closed)
                 {
                     sqlcon.Open();
                 }
 
-                string tk = tb_taikhoan.Text.Trim();
-                string mk = tb_matkhau.Text.Trim();
-                SqlCommand sqlcmd = new SqlCommand();
-                sqlcmd.CommandType = CommandType.Text;
-                sqlcmd.CommandText = "SELECT * FROM DangNhap WHERE TaiKhoan = '" + tk + "' AND MatKhau = '" + mk + "' ";
-
-                sqlcmd.Connection = sqlcon;
-
-                SqlDataReader data = sqlcmd.ExecuteReader();
-                if (data.Read() == true)
+                string query = "SELECT TaiKhoan, MatKhau FROM DangNhap";
+                using (SqlCommand cmd = new SqlCommand(query, sqlcon))
                 {
-                    MessageBox.Show("Đăng nhập thành công");
+                    using (SqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        if (reader.Read())
+                        {
+                            tentaikhoan = reader["TaiKhoan"].ToString();
+                            matkhau = reader["MatKhau"].ToString();
+                        }
+                    }
                 }
-                else
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi khi lấy thông tin đăng nhập: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            finally
+            {
+                if (sqlcon.State == ConnectionState.Open)
                 {
-                    MessageBox.Show("Đăng nhập thất bại");
+                    sqlcon.Close();
                 }
-                //Đóng reader
-                data.Close();
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string tk = tb_taikhoan.Text.Trim();
+            string mk = tb_matkhau.Text.Trim();
+
+            if (KiemTraDangNhap(tk, mk))
+            {
+                MessageBox.Show("Đăng nhập thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                Menu menu = new Menu();
+                menu.Show();
+                this.Hide();
             }
             else
             {
-                MessageBox.Show(" Sai thông tin tài khoản hoặc mật khẩu");
+                MessageBox.Show("Đăng nhập thất bại! Vui lòng kiểm tra lại thông tin.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 tb_taikhoan.Focus();
             }
-           
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -77,12 +92,8 @@ namespace QLCHSUA
 
         bool KiemTraDangNhap(string tentaikhoan, string matkhau)
         {
-            if(tentaikhoan == this.tentaikhoan && matkhau == this.matkhau )
-            {
-                return true;
-            }
-            return false;
+            return tentaikhoan.Equals(this.tentaikhoan, StringComparison.Ordinal) && 
+                   matkhau.Equals(this.matkhau, StringComparison.Ordinal);
         }
     }
- }
-
+}

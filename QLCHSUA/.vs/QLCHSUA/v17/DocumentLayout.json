@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\hihi\\github\\QLCHSUA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|D:\\hihi\\github\\QLCHSUA\\qlchsua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +23,16 @@
       "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|D:\\hihi\\github\\QLCHSUA\\qlchsua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,20 +42,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DangNhap.cs",
-              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\DangNhap.cs",
-              "RelativeDocumentMoniker": "QLCHSUA\\DangNhap.cs",
-              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\DangNhap.cs",
-              "RelativeToolTip": "QLCHSUA\\DangNhap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Title": "QLNV.cs [Design]",
+              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLNV.cs",
+              "RelativeDocumentMoniker": "QLCHSUA\\QLNV.cs",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLNV.cs [Design]",
+              "RelativeToolTip": "QLCHSUA\\QLNV.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T03:46:06.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T10:44:27.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\Menu.cs",
+              "RelativeDocumentMoniker": "QLCHSUA\\Menu.cs",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\Menu.cs [Design]",
+              "RelativeToolTip": "QLCHSUA\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:44:03.562Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -45,19 +84,74 @@
               "RelativeDocumentMoniker": "QLCHSUA\\Program.cs",
               "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\Program.cs",
               "RelativeToolTip": "QLCHSUA\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T07:31:10.828Z"
+              "WhenOpened": "2024-10-08T07:31:10.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QLCHSUA\\DangNhap.cs",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\DangNhap.cs [Design]",
+              "RelativeToolTip": "QLCHSUA\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:30:38.809Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\Menu.cs",
+              "RelativeDocumentMoniker": "QLCHSUA\\Menu.cs",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\Menu.cs",
+              "RelativeToolTip": "QLCHSUA\\Menu.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:44:05.859Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DangNhap.cs [Design]",
+              "Title": "QLNV.cs",
+              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLNV.cs",
+              "RelativeDocumentMoniker": "QLCHSUA\\QLNV.cs",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLNV.cs",
+              "RelativeToolTip": "QLCHSUA\\QLNV.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAASwGYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:44:31.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangNhap.cs",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\DangNhap.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\DangNhap.cs",
-              "ToolTip": "C:\\Users\\lesin\\OneDrive\\Desktop\\Nh\u00F3m 5 - Qu\u1EA3n l\u00FD kinh doanh s\u1EEFa\\QLCHSUA\\QLCHSUA\\DangNhap.cs [Design]",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\DangNhap.cs",
+              "RelativeToolTip": "QLCHSUA\\DangNhap.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBwAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T07:30:38.809Z"
+              "WhenOpened": "2024-10-11T03:46:06.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DangNhap.Designer.cs",
+              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\DangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "QLCHSUA\\DangNhap.Designer.cs",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\DangNhap.Designer.cs",
+              "RelativeToolTip": "QLCHSUA\\DangNhap.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:32:10.575Z",
+              "EditorCaption": ""
             }
           ]
         }
