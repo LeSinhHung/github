@@ -14,7 +14,7 @@ namespace QLCHSUA
     {
         SqlConnection connection;
         SqlCommand cmd;
-        string str = "Data Source=LAPTOP-NNG5TEB9\\SQLEXPRESS;Initial Catalog=QLCHSua;Integrated Security=True";
+        string str = "Data Source=DESKTOP-8DCO9H8;Initial Catalog=ChiNhanhSua;Integrated Security=True";
         SqlDataAdapter adapter = new SqlDataAdapter();
         DataTable table = new DataTable();
 

@@ -3,23 +3,47 @@
   "WorkspaceRootPath": "D:\\hihi\\github\\QLCHSUA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\qlkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\qlkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\qlkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\qlkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\qlkh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\qlkh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\qlnv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\qlnv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|D:\\hihi\\github\\QLCHSUA\\qlchsua\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|D:\\hihi\\github\\QLCHSUA\\qlchsua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|D:\\hihi\\github\\QLCHSUA\\qlchsua\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,20 +51,16 @@
       "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|D:\\hihi\\github\\QLCHSUA\\qlchsua\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|D:\\hihi\\github\\QLCHSUA\\qlchsua\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|D:\\hihi\\github\\QLCHSUA\\qlchsua\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\chinhanhsuadataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\chinhanhsuadataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,33 +82,95 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QLNV.Designer.cs",
-              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLNV.Designer.cs",
-              "RelativeDocumentMoniker": "QLCHSUA\\QLNV.Designer.cs",
-              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLNV.Designer.cs",
-              "RelativeToolTip": "QLCHSUA\\QLNV.Designer.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAawEoAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SP.cs",
+              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\SP.cs",
+              "RelativeDocumentMoniker": "QLCHSUA\\SP.cs",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\SP.cs",
+              "RelativeToolTip": "QLCHSUA\\SP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T11:17:24.221Z",
+              "WhenOpened": "2024-10-30T01:50:01.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "QLNV.cs",
-              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLNV.cs",
-              "RelativeDocumentMoniker": "QLCHSUA\\QLNV.cs",
-              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLNV.cs",
-              "RelativeToolTip": "QLCHSUA\\QLNV.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAASwGYAAAAMAAAAAAAAAA==",
+              "Title": "SP.cs [Design]",
+              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\SP.cs",
+              "RelativeDocumentMoniker": "QLCHSUA\\SP.cs",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\SP.cs [Design]",
+              "RelativeToolTip": "QLCHSUA\\SP.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T10:44:31.313Z",
+              "WhenOpened": "2024-10-30T01:49:55.257Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhieuNhap.cs [Design]",
+              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\PhieuNhap.cs",
+              "RelativeDocumentMoniker": "QLCHSUA\\PhieuNhap.cs",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\PhieuNhap.cs [Design]",
+              "RelativeToolTip": "QLCHSUA\\PhieuNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:49:42.331Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QLKH.Designer.cs",
+              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLKH.Designer.cs",
+              "RelativeDocumentMoniker": "QLCHSUA\\QLKH.Designer.cs",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLKH.Designer.cs",
+              "RelativeToolTip": "QLCHSUA\\QLKH.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:40:37.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "QLKH.cs",
+              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLKH.cs",
+              "RelativeDocumentMoniker": "QLCHSUA\\QLKH.cs",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLKH.cs",
+              "RelativeToolTip": "QLCHSUA\\QLKH.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:14:07.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QLKH.cs [Design]",
+              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLKH.cs",
+              "RelativeDocumentMoniker": "QLCHSUA\\QLKH.cs",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLKH.cs [Design]",
+              "RelativeToolTip": "QLCHSUA\\QLKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:14:03.122Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QLNV.Designer.cs",
+              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLNV.Designer.cs",
+              "RelativeDocumentMoniker": "QLCHSUA\\QLNV.Designer.cs",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLNV.Designer.cs",
+              "RelativeToolTip": "QLCHSUA\\QLNV.Designer.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwGkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:05:15.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "QLNV.cs [Design]",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLNV.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\QLNV.cs",
@@ -100,32 +182,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\Menu.cs",
-              "RelativeDocumentMoniker": "QLCHSUA\\Menu.cs",
-              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\Menu.cs",
-              "RelativeToolTip": "QLCHSUA\\Menu.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwDMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T10:44:05.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Menu.cs [Design]",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\Menu.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\Menu.cs",
               "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\Menu.cs [Design]",
               "RelativeToolTip": "QLCHSUA\\Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T10:44:03.562Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-29T10:44:03.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\Program.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\Program.cs",
@@ -133,24 +201,47 @@
               "RelativeToolTip": "QLCHSUA\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T07:31:10.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T07:31:10.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "DangNhap.cs [Design]",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\DangNhap.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\DangNhap.cs",
               "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\DangNhap.cs [Design]",
               "RelativeToolTip": "QLCHSUA\\DangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T07:30:38.809Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-08T07:30:38.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\Menu.cs",
+              "RelativeDocumentMoniker": "QLCHSUA\\Menu.cs",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\Menu.cs",
+              "RelativeToolTip": "QLCHSUA\\Menu.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:44:05.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QLNV.cs",
+              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLNV.cs",
+              "RelativeDocumentMoniker": "QLCHSUA\\QLNV.cs",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLNV.cs",
+              "RelativeToolTip": "QLCHSUA\\QLNV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:44:31.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DangNhap.cs",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\DangNhap.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\DangNhap.cs",
@@ -158,25 +249,11 @@
               "RelativeToolTip": "QLCHSUA\\DangNhap.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwBwAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T03:46:06.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T03:46:06.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ChiNhanhSuaDataSet.Designer.cs",
-              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\ChiNhanhSuaDataSet.Designer.cs",
-              "RelativeDocumentMoniker": "QLCHSUA\\ChiNhanhSuaDataSet.Designer.cs",
-              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\ChiNhanhSuaDataSet.Designer.cs",
-              "RelativeToolTip": "QLCHSUA\\ChiNhanhSuaDataSet.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T10:32:05.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "DangNhap.Designer.cs",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\DangNhap.Designer.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\DangNhap.Designer.cs",
@@ -184,8 +261,7 @@
               "RelativeToolTip": "QLCHSUA\\DangNhap.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T10:32:10.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T10:32:10.575Z"
             }
           ]
         }

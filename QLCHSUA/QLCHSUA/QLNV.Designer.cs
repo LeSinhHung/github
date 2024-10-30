@@ -72,7 +72,7 @@
             this.dgv.RowTemplate.Height = 24;
             this.dgv.Size = new System.Drawing.Size(739, 223);
             this.dgv.TabIndex = 0;
-            
+            this.dgv.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_CellContentClick);
             // 
             // groupBox2
             // 
@@ -102,6 +102,8 @@
             this.dtime_ngaysinh.Location = new System.Drawing.Point(98, 151);
             this.dtime_ngaysinh.Name = "dtime_ngaysinh";
             this.dtime_ngaysinh.Size = new System.Drawing.Size(120, 22);
+            this.dtime_ngaysinh.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dtime_ngaysinh.CustomFormat = "dd/MM/yyyy";
             this.dtime_ngaysinh.TabIndex = 13;
             // 
             // nut_tim

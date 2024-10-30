@@ -14,7 +14,7 @@ namespace QLCHSUA
     {
         SqlConnection connection;
         SqlCommand cmd;
-        string str = @"Data Source=DESKTOP-8DCO9H8;Initial Catalog=ChiNhanhSua;Integrated Security=True";
+        string str = "Data Source=DESKTOP-8DCO9H8;Initial Catalog=ChiNhanhSua;Integrated Security=True";
         SqlDataAdapter adapter = new SqlDataAdapter();
         DataTable table = new DataTable();
 
@@ -81,22 +81,7 @@ namespace QLCHSUA
             }
         }
 
-        private void dgv_CellContent(object sender, DataGridViewCellEventArgs e)
-        {
-            try
-            {
-                int i = dgv.CurrentCell.RowIndex;
-                tb_manv.Text = dgv.Rows[i].Cells[0].Value.ToString();
-                tb_tennv.Text = dgv.Rows[i].Cells[1].Value.ToString();
-                tb_sdt.Text = dgv.Rows[i].Cells[2].Value.ToString();
-                tb_diachi.Text = dgv.Rows[i].Cells[3].Value.ToString();
-                dtime_ngaysinh.Text = dgv.Rows[i].Cells[4].Value.ToString();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Lỗi: " + ex.Message);
-            }
-        }
+        
 
         private void nut_sua_Click(object sender, EventArgs e)
         {
@@ -174,6 +159,24 @@ namespace QLCHSUA
             {
                 MessageBox.Show("Lỗi: " + ex.Message);
             }
+        }
+
+        private void dgv_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+             try
+            {
+                int i = dgv.CurrentCell.RowIndex;
+                tb_manv.Text = dgv.Rows[i].Cells["MaNV"].Value.ToString();
+                tb_tennv.Text = dgv.Rows[i].Cells["Hoten"].Value.ToString();
+                tb_sdt.Text = dgv.Rows[i].Cells["SDT"].Value.ToString();
+                tb_diachi.Text = dgv.Rows[i].Cells["Diachi"].Value.ToString();
+                dtime_ngaysinh.Value = Convert.ToDateTime(dgv.Rows[i].Cells["Ngaysinh"].Value);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi: " + ex.Message);
+            }
+
         }
     }
 }

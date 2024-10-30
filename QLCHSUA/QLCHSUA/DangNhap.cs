@@ -26,7 +26,7 @@ namespace QLCHSUA
         {
             if (sqlcon == null)
             {
-                sqlcon = new SqlConnection(@"Data Source=DESKTOP-8DCO9H8;Initial Catalog=ChiNhanhSua;Integrated Security=True");
+                sqlcon = new SqlConnection("Data Source=DESKTOP-8DCO9H8;Initial Catalog=ChiNhanhSua;Integrated Security=True");
             }
             LayThongTinDangNhap();
         }
