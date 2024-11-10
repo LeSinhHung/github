@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\hihi\\github\\QLCHSUA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|d:\\hihi\\github\\qlchsua\\qlchsua\\sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DD0C05D-7436-487C-8EB7-53B4CCD137B1}|QLCHSUA\\QLCHSUA.csproj|solutionrelative:qlchsua\\sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -70,8 +74,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\HoaDon.cs",
+              "RelativeDocumentMoniker": "QLCHSUA\\HoaDon.cs",
+              "ToolTip": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\HoaDon.cs",
+              "RelativeToolTip": "QLCHSUA\\HoaDon.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwBAAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:55:46.157Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -82,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SP.cs",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\SP.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\SP.cs",
@@ -95,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SP.cs [Design]",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\SP.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\SP.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PhieuNhap.cs [Design]",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\PhieuNhap.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\PhieuNhap.cs",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "QLKH.Designer.cs",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLKH.Designer.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\QLKH.Designer.cs",
@@ -132,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "QLKH.cs",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLKH.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\QLKH.cs",
@@ -145,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "QLKH.cs [Design]",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLKH.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\QLKH.cs",
@@ -157,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "QLNV.Designer.cs",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLNV.Designer.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\QLNV.Designer.cs",
@@ -170,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "QLNV.cs [Design]",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLNV.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\QLNV.cs",
@@ -182,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Menu.cs [Design]",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\Menu.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\Menu.cs",
@@ -193,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\Program.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\Program.cs",
@@ -205,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "DangNhap.cs [Design]",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\DangNhap.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\DangNhap.cs",
@@ -216,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Menu.cs",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\Menu.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\Menu.cs",
@@ -228,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "QLNV.cs",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\QLNV.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\QLNV.cs",
@@ -241,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "DangNhap.cs",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\DangNhap.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\DangNhap.cs",
@@ -253,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "DangNhap.Designer.cs",
               "DocumentMoniker": "D:\\hihi\\github\\QLCHSUA\\QLCHSUA\\DangNhap.Designer.cs",
               "RelativeDocumentMoniker": "QLCHSUA\\DangNhap.Designer.cs",
